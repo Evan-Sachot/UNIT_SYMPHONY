@@ -1,7 +1,5 @@
-# UNIT_SYMPHONY<img width="960" height="504" alt="image" src="https://github.com/user-attachments/assets/887eca19-b8a9-426b-b50f-6741e022089e" />
-<img width="960" height="504" alt="image" src="https://github.com/user-attachments/assets/56f65c1f-5a7a-4b7e-a36d-b3a20572b975" />
-<img width="867" height="464" alt="image" src="https://github.com/user-attachments/assets/81843ce7-b271-47c6-a1ab-99daa7d30641" />
-<img width="867" height="464" alt="image" src="https://github.com/user-attachments/assets/f12a6459-64e9-46f6-891b-d5f9635ec7df" />
+# UNIT_SYMPHONY
+
 services:  #passage a la partie webserver services
 app:
 image: php:8.2-fpm      #prise de l'image docker
